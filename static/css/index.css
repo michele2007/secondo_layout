@@ -1,9 +1,6 @@
 @import "commons.css";
-@import "subtext.css";
 @import "title.css";
+@import "subtext.css";
 @import "button.css";
-
-.hero {
-    background-color: #CEFBFF;
-    border: 1px solid #707070;
-}
+@import "list.css";
+@import "footer.css";

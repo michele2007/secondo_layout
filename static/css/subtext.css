@@ -1,6 +1,9 @@
-.courier-prime-regular p {
-font-weight: 400;
-font-size: 35px;
-line-height: 50px;
-color: #707070;
+.subtext p{
+    font-size: 35px;
+    color: #707070;
+}
+
+.subtext {
+    margin-top: 35px;
+    margin-bottom: 35px;
 }

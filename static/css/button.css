@@ -1,14 +1,14 @@
-.button a {
+.button{
+    background-color: #240202;
+    height: 78px;
+    padding: 14px 33px;
+    background-image: url("right-arrow.svg");
+    background-repeat: no-repeat;
+    background-position: 90% center;
+    margin-bottom: 119px;
+}
 
-font-family: 'Merriweather';
-font-weight: 400;
-font-size: 35px;
-line-height: 50px;
-
-color: #FFFFFF;
-
-background: #240202;
-border: 2px solid #0039BA;
-
-
+.button a{
+    color: #FFF;
+    font-size: 35px;
 }

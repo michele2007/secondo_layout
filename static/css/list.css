@@ -1,0 +1,22 @@
+.list-number h2{
+    font-size: 70px;
+    color: #707070;
+}
+
+.list-number{
+    margin-top: 104px;
+}
+
+hr{
+    border: 1px solid #707070;
+}
+
+.text-container p{
+    font-size: 22px;
+    color: #707070;
+}
+
+.text-container a{
+    font-size: 22px;
+    color: red;
+}
